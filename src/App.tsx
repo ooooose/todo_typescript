@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './App.css';
-import { BinaryOperatorToken } from 'typescript';
 
 function App() {
   const [inputValue, setInputValue] = useState("");
